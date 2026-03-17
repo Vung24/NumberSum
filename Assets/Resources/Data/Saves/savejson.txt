@@ -1,0 +1,1 @@
+{"isChoosed":[[false,false,false,false,false],[false,false,false,false,false],[false,false,false,false,false],[false,false,false,false,false],[false,false,false,false,false]],"hp":2}
